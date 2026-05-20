@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /signup
+Disallow: /dashboard
+Disallow: /anime
+Disallow: /movies
+Disallow: /series
+Disallow: /links
+Disallow: /codes
+
+Sitemap: https://zought.netlify.app/sitemap.xml
